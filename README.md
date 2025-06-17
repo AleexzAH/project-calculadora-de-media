@@ -13,7 +13,7 @@ Exibição do resultado final com emojis (aprovado/reprovado)
 Validação simples de formulário
 
 ## 🖼️ Demonstração ##
-(Adicione um print da tela aqui ou um link para o GitHub Pages, se publicado)
+![image](https://github.com/user-attachments/assets/fdd6e913-972a-4b66-a72a-c3013f6419aa)
 
 ## 🚀 Tecnologias utilizadas ##
 HTML5
