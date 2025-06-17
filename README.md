@@ -1,6 +1,7 @@
 # 📝 Calculadora de Médias – Portfólio Web #
 Este é um projeto simples desenvolvido com HTML, CSS e JavaScript, que simula uma calculadora de médias escolares. Nele, o usuário pode inserir o nome da atividade e a nota correspondente. O sistema armazena os dados, exibe a tabela das atividades e calcula automaticamente a média final, indicando se o aluno foi aprovado ou reprovado com emojis ilustrativos.
-
+## Acesse aqui ##
+Link: https://vercel.com/alexander-henriques-projects/project-calculadora-de-media
 ## 🔧 Funcionalidades ##
 Adição dinâmica de atividades e notas
 
@@ -21,15 +22,6 @@ HTML5
 CSS3
 
 JavaScript (Vanilla)
-
-## 📁 Como usar ##
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Abra o arquivo index.html no navegador.
 
 Pronto! Você poderá adicionar atividades e calcular médias em tempo real.
 
